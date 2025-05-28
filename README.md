@@ -4,6 +4,8 @@
 **NF-Web Development Studio Portfolio**
 This project is a professional portfolio website that highlights my web development projects, demonstrates my front-end and back-end skills, and provides contact information for potential collaborators or clients.
 
+--- 
+
 ## Table of Contents
 * [Description](#description) 
 * [About this Project](#about-this-project)
@@ -21,6 +23,8 @@ This project is a professional portfolio website that highlights my web developm
 * [Deployment](#deployment)
 * [Contact](#contact)
 * [Project Documentation](#project-documentation)
+
+---
 
 ## About this Project
 
@@ -50,6 +54,10 @@ This project is a professional portfolio website that highlights my web developm
 
 ## Contact
 
+--- 
+
 ## Project Documentation
 
 You can read about my ongoing learning progress in my [Web Development Learning Journal](./WEB_DEV_LEARNING_JOURNAL.md).
+
+---
