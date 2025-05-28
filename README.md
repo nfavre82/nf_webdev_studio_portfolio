@@ -20,6 +20,7 @@ This project is a professional portfolio website that highlights my web developm
 * [Contributing](#contributing) 
 * [Deployment](#deployment)
 * [Contact](#contact)
+* [Project Documentation](#project-documentation)
 
 ## About this Project
 
@@ -48,3 +49,7 @@ This project is a professional portfolio website that highlights my web developm
 ## Deployment
 
 ## Contact
+
+## Project Documentation
+
+You can read about my ongoing learning progress in my [Web Development Learning Journal](./WEB_DEV_LEARNING_JOURNAL.md).
