@@ -16,7 +16,7 @@ Welcome to my professional learning journal for the **NF - Web Development Studi
 ---
 
 ## Date 
-27 May 2025
+*27 May 2025*
 
 ## What I Worked On Today
 
