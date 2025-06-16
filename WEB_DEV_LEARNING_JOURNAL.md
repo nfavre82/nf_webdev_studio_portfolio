@@ -78,3 +78,56 @@ Welcome to my professional learning journal for the **NF - Web Development Studi
 Getting familiar with Git Bash and VS Code terminals has been particuarly challenging — but it has deepened my appreciation of how crucial these tools are for organized project management and professional workflows.
 
 ---
+
+---
+
+## Date 
+*16 June 2025*
+
+## What I Worked On Today
+
+* Created the nav section for the index.html.
+
+* Created an unordered list and an unordered sublist within the nav section for the index.html. 
+
+* Added two additional HTML files: **contact.html** and **resume_skills.html**.
+
+* Staged, committed and pushed modifications onto **GitHub** using the terminal interfaces of both **Visual Studio Code** and **Git Bash**. 
+
+* 
+
+## What I Learned
+
+* How to use a nav section in a HTML file.
+
+* How to create a sublist within a list using HTML markdown language.
+
+
+## Challenges I Faced
+
+* Creating the sublist within the main list.
+
+
+## Tools and Technologies I Used
+
+* Visual Studio Code
+
+* Git & Git Bash
+
+* HTML
+
+
+## Next Steps
+
+* Add more HTML structure for the project's **index.html** file.
+
+* Add HTML structure for the project's **contact.html** and **resume_skills.html** files.
+
+* Design a placeholder logo for **NF - Web Development Studio**.
+
+* Expand the **About this Project** section in the README to reflect on project's vision and learning goals.
+
+## Remark on today's learning
+
+
+---
