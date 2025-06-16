@@ -112,7 +112,7 @@ Getting familiar with Git Bash and VS Code terminals has been particuarly challe
 
         - Added a class attribute (class="project_thumbnails") to the img element to be used in the style.css file for future styling.
 
-        - Added **figure>** and **figcaption** elements. 
+        - Added **figure** and **figcaption** elements. 
 
     + in the **style.css** file: styled the screenshot using the class="project_thumbnails" attribute. 
 
@@ -120,7 +120,9 @@ Getting familiar with Git Bash and VS Code terminals has been particuarly challe
 
 * Learnt how to write professional commit messages for GitHub.
 
-* Learnt how to ammend commit messages through GitBash. Failed to learn and manage it through Visual Studio Code. * Updated my Web-Dev-Learning-Journal.md file 
+* Learnt how to ammend commit messages through GitBash. Failed to learn and manage it through Visual Studio Code. 
+
+* Updated my Web-Dev-Learning-Journal.md file 
            
 * Staged, committed and pushed modifications onto **GitHub** using the terminal interfaces of both **Visual Studio Code** and **Git Bash**. 
 
